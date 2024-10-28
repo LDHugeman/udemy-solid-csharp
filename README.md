@@ -1,1 +1,0 @@
-# udemy-solid-csharp
